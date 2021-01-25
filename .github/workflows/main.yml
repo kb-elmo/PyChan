@@ -38,5 +38,5 @@ jobs:
         Compress-Archive -Path "target\PyChan" -DestinationPath pychan-win.zip
     - uses: actions/upload-artifact@v1
       with:
-        name: pychan
-        path: pychan.zip
+        name: PyChan
+        path: pychan-win.zip
