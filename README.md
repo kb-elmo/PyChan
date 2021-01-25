@@ -4,7 +4,7 @@
 Super simple image downloader for 4chan.<br>
 (downloads webms too)
 
-Comes with idiot-safe GUI.<br>
+Comes with an idiot-safe GUI.<br>
 Just paste the Link into the URL field.<br>
 Enter the path to were the files should be stored.
 
