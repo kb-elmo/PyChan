@@ -11,3 +11,7 @@ Hit download. Doesn't get easier than this.
 
 Images will be saved into a folder with the boardname and the threadtitle.  
 e.g: Images/4chan/gif/2017-11-03 - Rekt
+
+---
+
+Precombiled build for windows is available through [GitHub Actions](https://github.com/kb-elmo/PyChan/actions)

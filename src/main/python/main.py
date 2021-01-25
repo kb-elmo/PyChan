@@ -11,7 +11,7 @@ class AppContext(ApplicationContext):
         return appctxt.app.exec_()
 
     def get_design(self):
-        qt_creator_file = self.get_resource("chany.ui")
+        qt_creator_file = self.get_resource("PyChan.ui")
         return qt_creator_file
 
     @cached_property
