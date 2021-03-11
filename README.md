@@ -14,4 +14,4 @@ e.g: Images/4chan/gif/2017-11-03 - Rekt
 
 ---
 
-Precombiled build for windows is available through [GitHub Actions](https://github.com/kb-elmo/PyChan/actions)
+Precompiled build for windows is available through [GitHub Actions](https://github.com/kb-elmo/PyChan/actions)
